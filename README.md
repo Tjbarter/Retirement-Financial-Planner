@@ -1,11 +1,18 @@
 # Retirement-Financial-Planner
 Script that outputs an adjustable disposable income viewer depending on multiple varying retirement parameters, such as:
+
 -Current salary
+
 -Pensions
+
 -Multiple sources of income
+
 -Taxation
+
 -Retirement age
+
 -Real return on current pot
+
 
 Accounts for a decrease in spending of disposable income as one ages, as a result of reduced activity. Can be viewed with an exponentially decaying mode:
 
